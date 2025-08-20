@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "isbn": "9780441013593"
+    },
+    {
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "isbn": "9780618640157"
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "isbn": "9780451524935"
+    },
+    {
+        "title": "The Hitch Hiker's Guide to The Galaxy",
+        "author": "Douglas Adams",
+        "isbn": "9780345391803"
+    }
+]
